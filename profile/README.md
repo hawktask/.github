@@ -1,4 +1,4 @@
-![HawkTask Logo](public/logo/HawkTask-logo(upscale).png)
+![HawkTask Logo](https://github.com/hawktask/.github/blob/main/public/logo/HawkTask-logo(upscale).png)
 
 # Hawktask
 
