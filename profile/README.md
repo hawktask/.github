@@ -22,4 +22,4 @@ Hawktask is a Web2 SaaS for freelancers and small agencies. You manage 5–20 cl
 
 ## License
 
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the ISC License. See the [LICENSE](https://github.com/hawktask/.github/blob/main/LICENSE) file for details.
