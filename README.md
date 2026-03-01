@@ -8,7 +8,7 @@
 Hawktask is a Web2 SaaS for freelancers and small agencies. You manage 5–20 clients across email, Slack, Discord, and WhatsApp from one place. The product gives you client workspaces with dedicated AI context, proposal generation, invoice reminders, and testimonial harvesting. Built on OpenClaw for multi-channel orchestration, with Supabase for data and Stripe for freemium billing.
 
 <!-- Badges: start -->
-![License](https://img.shields.io/github/license/username/hawktask)
+![License](https://img.shields.io/github/license/hawktask/hawktask)
 <!-- Badges: end -->
 
 ## Features
